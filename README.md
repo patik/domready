@@ -1,36 +1,27 @@
-## domReady
+## domready
 
 It's easy. Works like this:
 
 ``` js
 domready(function () {
-  // dom is loaded!
+    // dom is loaded!
 })
 ```
 
 -------------------------
-## Deprecation Notice
+## Legacy Support Notice
 
-Compatibility with `IE6`, `IE7`, and `IE8` has been fully dropped. If your application requires this level of support, please use the [`0.3.0`](https://github.com/ded/domready/tree/v0.3.0) release.
+Compatibility with `IE6` and `IE7` may work but has not yet been fully tested. If your application requires this level of support, please use [ded](https://github.com/ded)’s release [`0.3.0`](https://github.com/ded/domready/tree/v0.3.0).
 
 -------------------------
 
-
 ### Browser support
 
-  * IE9+
+  * IE8+
   * Firefox 4+
   * Safari 3+
-  * Chrome *
-  * Opera *
-
-### Building
-
-``` sh
-npm install
-make
-open tests/test.html
-```
+  * Chrome
+  * Opera
 
 ### Including with Ender
 
