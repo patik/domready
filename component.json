@@ -2,9 +2,16 @@
     "name": "domready",
     "repo": "patik/domready",
     "description": "Simple domready utility",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "homepage": "https://github.com/patik/domready",
-    "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)",
+    "author": "Craig Patik <craig@patik.com> (http://patik.com)",
+    "contributors": [
+        {
+            "name": "Dustin Diaz",
+            "email": "dustin@dustindiaz.com",
+            "url": "http://dustindiaz.com"
+        }
+    ],
     "keywords": [
         "domready",
         "dom",

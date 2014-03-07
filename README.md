@@ -5,7 +5,7 @@ It's easy. Works like this:
 ``` js
 domready(function () {
     // dom is loaded!
-})
+});
 ```
 
 -------------------------
